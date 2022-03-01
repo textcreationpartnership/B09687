@@ -1,0 +1,1192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Essex ss. The particular rates of wages of all manner of artificers, labourers and servants, as well by the day, with meat and drink and without, as also by the whole year, and in gross, or by task; made and set forth at the Quarter-sessions of the Peace holden at Chelmesfordin the said county, April 8. 1651. by the justices of peace there assembled, according to a statute made 29 Eliz. having a special regard and consideration to the prizes at this time of all kind of victuals, and apparel, both linnen and woollen, and all other necessary charges wherewith artificers, labourers and servants have been more grievously charged with than in times past.</title>
+            <author>England and Wales. Court of Quarter Sessions of the Peace (Essex)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09687</idno>
+            <idno type="OCLC"> 80923301</idno>
+            <idno type="STC">Wing P596B</idno>
+            <idno type="STC">ESTC R181487</idno>
+            <idno type="EEBO-CITATION">80923301</idno>
+            <idno type="OCLC">ocm 80923301</idno>
+            <idno type="VID">191940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191940)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Essex ss. The particular rates of wages of all manner of artificers, labourers and servants, as well by the day, with meat and drink and without, as also by the whole year, and in gross, or by task; made and set forth at the Quarter-sessions of the Peace holden at Chelmesfordin the said county, April 8. 1651. by the justices of peace there assembled, according to a statute made 29 Eliz. having a special regard and consideration to the prizes at this time of all kind of victuals, and apparel, both linnen and woollen, and all other necessary charges wherewith artificers, labourers and servants have been more grievously charged with than in times past.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (Essex)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wages --  England --  Early works to 1800.</term>
+               <term>Essex (England) --  History --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:191940:1"/>
+            <head>
+               <hi>Eſſer. ſſ.</hi> The particular Rates of Wages of all manner of Artificers, Labourers and Servants, as well by the Day, with Meat and Drink, and with<g ref="char:EOLhyphen"/>out, as alſo by the whole Year, and in Groſs, or by Task; made and ſet forth at the Quarter-Seſſions of the Peace holden at <hi>Chelmesford</hi> in the ſaid County, <hi>April 8. 1651.</hi> by the Juſtices of Peace there Aſſembled, according to a Statute made <hi>29 Eliz.</hi> having a ſpecial Regard and Conſideration to the Prizes at this time of all kind of Victuals, and Apparel, both Linnen and Woollen, and all other neceſſary Charges wherewith Artificers, Labourers and Servants have been more grievouſly charged with than in times paſt.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="2">
+                        <hi>By the day from Mid-March to Mid-September.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>By the day from Mid-September to Mid-March.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>By the whole year.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>With Meat Drink.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Without Meat and Drink.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>With Meat and Drink.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Without Meat and Drink.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Wages.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Livery.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Maſter Free-Maſon
+<note place="margin">Maſons.</note>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>4<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Maſter Rough-Maſon having three under him</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>17<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>3<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Servants and Apprentices above the Age of 14, and under 18,
+<note place="margin">Carpenters and Saw<g ref="char:EOLhyphen"/>vers.</note>
+                     </cell>
+                     <cell>4<hi>d.</hi>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>3<hi>d.</hi>
+                     </cell>
+                     <cell>7<hi>d.</hi>
+                     </cell>
+                     <cell>30<hi>s.</hi>
+                     </cell>
+                     <cell>8<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Maſter Carpenter having four under his Charge</cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>4<hi>d.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Their JOurney-men and Servants above 18, and under 24</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>50<hi>s.</hi>
+                     </cell>
+                     <cell>8<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Servants and Apprentices above 14, and under 24</cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>24<hi>s.</hi>
+                     </cell>
+                     <cell>8<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Maſter Sawyer</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>4<hi>l.</hi> 10<hi>s.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>His Labourer</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>4<hi>l.</hi>
+                     </cell>
+                     <cell>8<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Palers</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>4<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Rivers of Pale and Clap-board and Lath</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>4<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Mill-wright</cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>28<hi>d.</hi>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A Plow-wright and Cart-Wright</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Cowpers</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A Maſter Ship-wright having four un<g ref="char:EOLhyphen"/>der him
+<note place="margin">Ship<g ref="char:EOLhyphen"/>wrights.</note>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>2<hi>s.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A Hewer or Common Ship-wright</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>An able Clencher</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>An able Holder</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>7<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A Maſter Calker</cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>2<hi>s.</hi>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A Calker labouring by Tide</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A mean Calker</cell>
+                     <cell>9<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A Maſter Joyner or Carver
+<note place="margin">Joyner and Carver.</note>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>4<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Servants and Apprentices above 18, and under 24,</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>3<hi>l.</hi>10.</cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Servants and Apprentices above 14, and under 24</cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>9<hi>d.</hi>
+                     </cell>
+                     <cell>5<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>33<hi>s.</hi>4<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Maſter Bricklayer and Tyler,
+<note place="margin">Bricklayers Tylers, Plaisterers, and Shing<g ref="char:EOLhyphen"/>lers.</note> Pla<g ref="char:EOLhyphen"/>ſterer and Shingler</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>4<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Second Bricklayers, Tylers and Slaters above 16 and under 24</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>2<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Servants and Apprentices above 12,
+<note place="margin">Makers of Brick, Tyle, Burners of Lyme, Aſhes and Wood.</note> and under 24</cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>5<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Makers of Brick and Tyle, Burners of Wood-aſhes and <hi>Lyme</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>3<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Their Servants and Labourers</cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>11<hi>d.</hi>
+                     </cell>
+                     <cell>5<hi>d.</hi>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>50<hi>s.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Plumber and Glaſier
+<note place="margin">Plumber and Glaſier</note>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="2">
+                        <hi>By the day from Mid-March to Mid-September.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>By the day from Mid-September to Mid-March.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>By the whole year.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>With Meat and Drink.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Without Meat and Drink.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>With Meat and Drink.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Without Meat and Drink.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Wages.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Livery.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Their Servants and Apprentices of the Age of 14,
+<note place="margin">Layers of Roods and Thatchers.</note> and under 24</cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>5<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>30<hi>s.</hi>4<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>s.</hi>4<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A Maſter Layer or Thatcher</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>3<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Their Servants</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>13<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>50<hi>s.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Fellers and makers of Wood,
+<note place="margin">Common Labourers.</note> Ditchers, Hedgers, and Threſhers, and all com<g ref="char:EOLhyphen"/>mon Labourers; the time of Har<g ref="char:EOLhyphen"/>veſt excepted</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>3<hi>l.</hi>5<hi>s.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Gardners
+<note place="margin">Gardners.</note>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                     <cell>7<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>3<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Scavel-men or Marſh-men</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>15<hi>d.</hi>
+                     </cell>
+                     <cell>3<hi>l.</hi>10<hi>s.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Man Hay-maker</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Woman Hay-maker</cell>
+                     <cell>5<hi>d.</hi>
+                     </cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Weeders of Corn</cell>
+                     <cell>4<hi>d.</hi>
+                     </cell>
+                     <cell>9<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Mowers of Corn and Graſs</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>A Fallower</cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>15<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Man-Reaper
+<note place="margin">Reapers.</note>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>22<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Woman-Reaper.</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">The beſt Servant Clothier being Journeyman
+<note place="margin">Clothiers, with other men of Sci<g ref="char:EOLhyphen"/>ence or oc<g ref="char:EOLhyphen"/>cupation</note>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>3<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The beſt Journeyman Weaver able to take and leave his Work as well in <hi>Cogſhall,</hi> and ſuch places, where fine Clothes are made as elſewhere</cell>
+                     <cell>3<hi>l.</hi>
+                     </cell>
+                     <cell>16<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The ſecond Journeyman Weaver and Clothier</cell>
+                     <cell>30<hi>s.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">A Journeyman Kember in <hi>Coxall</hi> above the Age of 24,
+<note place="margin">Kimbers.</note> kembing and drawing every day 5 <hi>l.</hi> warp</cell>
+                     <cell>2<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="4">Houſhoulders their kembing or drawing by Task for every Warp with meat and drink</cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="4">A weaver being an Houſholder weaving by the Piece in great as he can agree with the Clothier</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">A Journeyman Tucker, or Fuller, and Sheerman, and Dyer</cell>
+                     <cell>50<hi>s.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Taylors and Hoſiers</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                     <cell>50<hi>s.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Shoomakers, Cutlers, Smiths, Farriers, Sadlers, Spurriers, Tanners, Coopers</cell>
+                     <cell>50<hi>s.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Millers, Bakers, Brewers, Butchers and Cooks</cell>
+                     <cell>50<hi>s.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The ſecond ſort of the ſaid Artificers</cell>
+                     <cell>50<hi>s.</hi>
+                     </cell>
+                     <cell>8<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Loaders of Corn and Meal to <hi>London</hi>
+                     </cell>
+                     <cell>4<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Knackers, Coller-makers, Armourers</cell>
+                     <cell>9<hi>d.</hi>
+                     </cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                     <cell>6<hi>l.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">A Bailiff of Husbandry taking charge,
+<note place="margin">Servants of Husbandry.</note> and able to diſcharge the ſame</cell>
+                     <cell>5<hi>l.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">A Chief Hynde, the beſt Ploughman, Carter, Shepherd or Neatherd</cell>
+                     <cell>4<hi>l</hi>10<hi>s.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The ſecond Hynde, Carter, or Servants in Husbandry</cell>
+                     <cell>3<hi>l.</hi>10<hi>s.</hi>
+                     </cell>
+                     <cell>10<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">Apprentice at Husbandry at Meat Drink and Clothes</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The beſt Woman-Servant being a Cook able to take charge of a Houſhold</cell>
+                     <cell>50<hi>s.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">The Second Woman Servant</cell>
+                     <cell>40<hi>s.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">A Dairy-maid, or Waſh-maid</cell>
+                     <cell>45<hi>s.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell cols="5">A Chamber-maid</cell>
+                     <cell>45<hi>s.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Artificers and Laborers by Task, or in Great, without Meat and Drink.</head>
+                  <row>
+                     <cell>THe mowing of one Acre of graſs after land meaſure
+<note place="margin">Mowers and Hay<g ref="char:EOLhyphen"/>makers</note>
+                     </cell>
+                     <cell>20<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The well making, clean taking and cocking of an Acre of Graſs ready to carry</cell>
+                     <cell>2 <hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The reaping, or ſhearing, well bringing, cocking, or ſhocking of one Acre of Wheat, Rye, or Mixtling</cell>
+                     <cell>3<hi>s.</hi> 4<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The reaping or ſhearing of an Acre of Barley and Bullymong, binding and ſhocking</cell>
+                     <cell>2<hi>s.</hi> 6<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The reaping, well binding and ſhocking of an Acre of Oats</cell>
+                     <cell>2<hi>s.</hi> 6<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The reaping and well binding of an Acre of Beans</cell>
+                     <cell>3<hi>s.</hi> 8<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making of an Acre of Peaſe, Fitches and Tares</cell>
+                     <cell>21<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Mowing of an Acre of Barley or Oats
+<note place="margin">Mowing of Corn.</note>
+                     </cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The follower making Bands, Raking, and laying the ſame</cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making and ditching of a Rod of new Ditch out of the whole ground four foot wide, three foot deep, and one foot and half in the bottom, double ſet with Quick, and Setting an hedg upon it after the rate of 16 foot and half to the Rod with gathering Sets for the ſame</cell>
+                     <cell>14<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making of a Rod of ditch of like bredth and depth without Quick</cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The plaſhing of every Rod of Quick-hedge.</cell>
+                     <cell>2<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making of a Rod of an uſual Hedge, the Stuff laid by</cell>
+                     <cell>2<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The felling of every Load of Buſhes</cell>
+                     <cell>16<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making of an hundred of Fagots,
+<note place="margin">Felling and making wood.</note> Double hand</cell>
+                     <cell>2 <hi>s.</hi> 6<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Single band</cell>
+                     <cell>20<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making of a thouſand of Billet</cell>
+                     <cell>18<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making a load of Talewood</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making of a load of Pole or other wood</cell>
+                     <cell>6<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making of a hundred of Broom or Furz Fagots</cell>
+                     <cell>22<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Wheat and Rye the Quarter
+<note place="margin">Threſhing and Fown<g ref="char:EOLhyphen"/>ing.</note>
+                     </cell>
+                     <cell>22<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Barley and Oats the Quarter</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Beans, Peaſe, Bully mong and Tares</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Plank the Hundred <hi>(viz.)</hi>
+                        <note place="margin">Sawing.</note> ſix ſcore</cell>
+                     <cell>2<hi>s.</hi> 6<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Board the Hundred</cell>
+                     <cell>2<hi>s.</hi> 6<hi>d,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Slitting work the hundred</cell>
+                     <cell>2<hi>s.</hi> 6<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lath the hundred
+<note place="margin">Riving.</note>
+                     </cell>
+                     <cell>4<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Pale the hundred</cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Clap-board the hundred</cell>
+                     <cell>4<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The felling,
+<note place="margin">Paling.</note> cleaving and hewing of Pales, Poſts, ſhores, and Rails, and ſetting up of every rod of 6 foot long Pale, not exceeding 7 foot with ſingle rayl, after the rate of 16 foot and half to the Pole.</cell>
+                     <cell>2<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making of a Plough all new with Meat and Drink
+<note place="margin">Cart<g ref="char:EOLhyphen"/>wrights.</note>
+                     </cell>
+                     <cell>1<hi>s.</hi> 6<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Body of a Plough with Meat and Drink</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Heading or Bodying of a Plough with the handle with Meat and Drink</cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making of a pair of Cart-wheels finding himſelf</cell>
+                     <cell>8<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The hewing of all the Stuff of the Body of a Cart finding himſelf</cell>
+                     <cell>20<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making of the Body of a Cart finding himſelf</cell>
+                     <cell>3<hi>s</hi> 6<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The hewing of every Gang of Fellyes which conteyn 12 for wheeles</cell>
+                     <cell>1<hi>s.</hi> 4<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Setting on of a Felly finding himſelf</cell>
+                     <cell>8<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The hewing and Riving of every Gang of ſpoak-tymber, the Gang conteyning</cell>
+                     <cell>251<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The felling,
+<note place="margin">Making of Coals.</note> cutting, and blocking of a Dozen Coales, every Coal con<g ref="char:EOLhyphen"/>teyning 24 Sackes and every Sack 4 Buſhells</cell>
+                     <cell>2<hi>s.</hi> 4<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The making of a Dozen of Coales</cell>
+                     <cell>2<hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Digging of the Earth,
+<note place="margin">Brick and Tyle-ma<g ref="char:EOLhyphen"/>kers.</note> the ſtriking and burning every M. Brick with<g ref="char:EOLhyphen"/>out meat and drink, having Straw and all other neceſſaries laid by</cell>
+                     <cell>2<hi>s.</hi> 6<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The ſtriking, drying and ſetting on pillar every thouſand Tyle without Meat and Drink</cell>
+                     <cell>10<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The whiting and nealing of every M. Tyle without Meat and Drink</cell>
+                     <cell>12<hi>d.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Place this between <hi>Fol.</hi> 240. and 241.</p>
+            <p>This is the Order of Rates for the Wages of Artificers, Labourers, and Servants.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
